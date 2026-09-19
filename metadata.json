@@ -1,0 +1,6 @@
+{
+  "name": "Sarang3DRoom",
+  "description": "Interactive 3D Room Portfolio of Sarang R N – MCA Graduate, Software Development, Python, and Machine Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
